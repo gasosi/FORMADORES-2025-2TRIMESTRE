@@ -12,4 +12,6 @@ console.log (linguagens[1]) //phyton
 console.log (linguagens [2]) // C
 
 const lista = document.querySelector ("#lista");
+lista.textContent =  linguagens [2];
+lista.textContent =  linguagens [1];
 lista.textContent =  linguagens [0];
